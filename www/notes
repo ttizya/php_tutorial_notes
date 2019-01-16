@@ -1,0 +1,4 @@
+php files need a php server
+
+to create a web server, go to cmd and type:
+php -S localhost:4000
